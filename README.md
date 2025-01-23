@@ -2,6 +2,14 @@
 
 This project is a simple dice game built with React.
 
+## How to Play
+
+1. **Objective**: The goal is to freeze all dice to the same number.
+2. **Roll Dice**: Click the "Roll the dice" button to roll all unfrozen dice.
+3. **Freeze Dice**: Click on a die to freeze it. Frozen dice will not change when you roll.
+4. **Win**: When all dice show the same number and are frozen, you win the game.
+5. **Play Again**: Click the "Play Again" button to start a new game.
+
 ## Available Scripts
 
 In the project directory, you can run:
